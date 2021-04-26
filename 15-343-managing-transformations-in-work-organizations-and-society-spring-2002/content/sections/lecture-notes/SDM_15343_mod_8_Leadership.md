@@ -1,0 +1,13 @@
+---
+course_id: 15-343-managing-transformations-in-work-organizations-and-society-spring-2002
+description: 'This resource contains information about leadership skills for the 21st
+  century and five core leadership capabilities: adapted from the "sloan model".'
+file_location: /coursemedia/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/5dc6ca9e88a4ca239ccdd32ae858615f_SDM_15343_mod_8_Leadership.pdf
+file_type: application/pdf
+layout: pdf
+title: SDM_15343_mod_8_Leadership.pdf
+type: course
+uid: 5dc6ca9e88a4ca239ccdd32ae858615f
+
+---
+None
